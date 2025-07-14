@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36212.18 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiliBiliVideoMerger", "BiliBiliVideoMerger\BiliBiliVideoMerger.csproj", "{D7A82AA8-8305-4C99-8B05-A13D79A7B765}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7A82AA8-8305-4C99-8B05-A13D79A7B765}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{D7A82AA8-8305-4C99-8B05-A13D79A7B765}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{D7A82AA8-8305-4C99-8B05-A13D79A7B765}.Debug|x64.ActiveCfg = Debug|x64
+		{D7A82AA8-8305-4C99-8B05-A13D79A7B765}.Debug|x64.Build.0 = Debug|x64
+		{D7A82AA8-8305-4C99-8B05-A13D79A7B765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7A82AA8-8305-4C99-8B05-A13D79A7B765}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7A82AA8-8305-4C99-8B05-A13D79A7B765}.Release|x64.ActiveCfg = Release|x64
+		{D7A82AA8-8305-4C99-8B05-A13D79A7B765}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF9ADAF0-BF32-41EA-AF75-CFEA4FBB2602}
+	EndGlobalSection
+EndGlobal

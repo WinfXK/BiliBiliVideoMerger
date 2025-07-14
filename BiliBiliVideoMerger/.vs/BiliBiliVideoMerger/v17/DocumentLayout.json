@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Work\\Visual Studio\\BiliBiliVideoMerger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A82AA8-8305-4C99-8B05-A13D79A7B765}|BiliBiliVideoMerger\\BiliBiliVideoMerger.csproj|e:\\work\\visual studio\\bilibilivideomerger\\bilibilivideomerger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A82AA8-8305-4C99-8B05-A13D79A7B765}|BiliBiliVideoMerger\\BiliBiliVideoMerger.csproj|solutionrelative:bilibilivideomerger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Work\\Visual Studio\\BiliBiliVideoMerger\\BiliBiliVideoMerger\\Program.cs",
+              "RelativeDocumentMoniker": "BiliBiliVideoMerger\\Program.cs",
+              "ToolTip": "E:\\Work\\Visual Studio\\BiliBiliVideoMerger\\BiliBiliVideoMerger\\Program.cs",
+              "RelativeToolTip": "BiliBiliVideoMerger\\Program.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAawGEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T01:40:08.624Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
