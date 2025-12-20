@@ -1,0 +1,18 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BiliBiliVideoMerger",
+    "\\BiliBiliVideoMerger\\bin",
+    "\\BiliBiliVideoMerger\\bin\\Debug",
+    "\\BiliBiliVideoMerger\\bin\\Debug\\net8.0",
+    "\\BiliBiliVideoMerger\\bin\\Debug\\net8.0\\win-x64",
+    "\\BiliBiliVideoMerger\\bin\\Release",
+    "\\BiliBiliVideoMerger\\bin\\Release\\net8.0",
+    "\\BiliBiliVideoMerger\\bin\\Release\\net8.0\\win-x64",
+    "\\BiliBiliVideoMerger\\obj\\Debug",
+    "\\BiliBiliVideoMerger\\obj\\Debug\\net8.0",
+    "\\BiliBiliVideoMerger\\obj\\Debug\\net8.0\\win-x64"
+  ],
+  "SelectedNode": "\\BiliBiliVideoMerger\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
