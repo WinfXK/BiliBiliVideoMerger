@@ -41,6 +41,7 @@
 4.  **查看结果**:
     - 程序将开始合并视频，并显示处理进度。
     - 合并完成后，在你的 `download` 文件夹旁边会生成一个 `MergedVideos` 文件夹，所有合并好的 `.mp4` 文件都在里面。
+### 也可以下载[Releases](https://github.com/WinfXK/BiliBiliVideoMerger/releases)的发布包，包含了`ffmpeg.exe`和`BiliBiliVideoMerger.exe`，解压即用
 
 ## 📂 目录结构示例
 
