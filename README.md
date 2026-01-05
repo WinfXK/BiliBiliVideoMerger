@@ -76,7 +76,7 @@
 
 1.  克隆本仓库：
     ```bash
-    git clone [https://github.com/WinfXK/BiliBiliVideoMerger/BiliBiliVideoMerger.git](https://github.com/WinfXK/BiliBiliVideoMerger.git)
+    git clone https://github.com/WinfXK/BiliBiliVideoMerger.git
     ```
 2.  使用 Visual Studio 2022 打开 `.sln` 项目文件。
 3.  确保已安装 .NET 6.0 SDK。
